@@ -27,10 +27,12 @@ pkg install python git -y
 pip install requests
 
 # Clone the repository
-git clone [https://github.com/LK-HACKERS/Worm-GPT-AI.git](https://github.com/LK-HACKERS/Worm-GPT-AI.git)
+git clone https://github.com/LK-HACKERS/Worm-GPT-AI.git
 
 # Navigate to the directory
 cd Worm-GPT-AI
 
 # Run the tool
 python run.py
+
+´´´bash
