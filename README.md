@@ -12,35 +12,26 @@ Worm-GPT-AI is an advanced, terminal-based AI assistant designed specifically fo
 * A terminal environment (e.g., Termux, Linux, macOS).
 * Python 3.x installed.
 
-## Installation
-
-To install and run Worm-GPT-AI, execute the following commands in your terminal:
-
-```bash
-# Update and upgrade system packages
-pkg update && pkg upgrade -y
-
-# Install dependencies
-pkg install python git -y
-
-# Install Python requirements
-pip install requests
-
-# Clone the repository
-git clone https://github.com/LK-HACKERS/Worm-GPT-AI.git
-
-# Navigate to the directory
-cd Worm-GPT-AI
-
-# Run the tool
-python run.py
-
-
+## 
 ## හැකින් සඳහා මෙය භාවිතා වන ආකාරය
 
 1) Phishing
 2) Malware
 3) Vulnerabilities
 
-සැලකිය යුතුයි: මෙවැනි දේ අනවසරයෙන් සිදු කිරීම නීති විරෝධී වන අතර සයිබර් අපරාධ ගණයට වැටේ. මෙම තොරතුරු අධ්‍යාපනික සහ ආරක්ෂක පර්යේෂණ (Ethical Hacking) අරමුණු සඳහා පමණක් භාවිතා කරන්න.
+**සැලකිය යුතුයි:** මෙවැනි දේ අනවසරයෙන් සිදු කිරීම නීති විරෝධී වන අතර සයිබර් අපරාධ ගණයට වැටේ. මෙම තොරතුරු අධ්‍යාපනික සහ ආරක්ෂක පර්යේෂණ (Ethical Hacking) අරමුණු සඳහා පමණක් භාවිතා කරන්න.
+
+## Installation
+
+To install and run Worm-GPT-AI, execute the following commands in your terminal:
+
+```bash
+
+pkg update && pkg upgrade -y
+pkg install python git -y
+pip install requests
+git clone https://github.com/LK-HACKERS/Worm-GPT-AI.git
+cd Worm-GPT-AI
+python run.py
+
 
