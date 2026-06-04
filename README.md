@@ -21,6 +21,17 @@ Worm-GPT-AI is an advanced, terminal-based AI assistant designed specifically fo
 
 **සැලකිය යුතුයි:** මෙවැනි දේ අනවසරයෙන් සිදු කිරීම නීති විරෝධී වන අතර සයිබර් අපරාධ ගණයට වැටේ. මෙම තොරතුරු අධ්‍යාපනික සහ ආරක්ෂක පර්යේෂණ (Ethical Hacking) අරමුණු සඳහා පමණක් භාවිතා කරන්න.
 
+## 🔑 API Key එකක් ගන්නේ කොහොමද? (The Uncensored Way)
+
+**සාමාන්‍ය ChatGPT වගේ ඒවයේ "Ethical Guardrails" තියෙනවා. ඒ නිසා අපිට ඕනේ Uncensored Models (උදා: Dolphin, Mistral, Llama-3 Uncensored). මේවා ගන්න ලේසිම තැන තමයි OpenRouter.**
+
+1) OpenRouter.ai එකට යන්න.
+2) Google account එකකින් හෝ Email එකකින් register වෙන්න.
+3) "Keys" කියන section එකට ගිහින් "Create Key" බටන් එක ක්ලික් කරන්න.
+4) එතනින් ලැබෙන sk-or-v1-.... කියලා පටන් ගන්න key එක copy කරගන්න. (මේක කාටවත් දෙන්න එපා, නැත්නම් ඔයාගේ credits ටික ඉවර කරනවා!)
+5) OpenRouter එකේ model select කරද්දී "Dolphin" හෝ "Hermes" වගේ Uncensored model එකක් තෝරලා ගන්න.
+
+
 ## Installation
 
 To install and run Worm-GPT-AI, execute the following commands in your terminal:
